@@ -33,7 +33,7 @@ Para manter o fator de balanceamento entre -1 e 1, o código aplica:
     ```
 3.  Execute o arquivo principal:
     ```bash
-    python main.py
+    python estrutura_1.py
     ```
 
 ## 🎥 Demonstração
