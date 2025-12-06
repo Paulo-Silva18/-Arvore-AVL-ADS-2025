@@ -39,4 +39,4 @@ Para manter o fator de balanceamento entre -1 e 1, o código aplica:
 ## 🎥 Demonstração
 
 O funcionamento da árvore, incluindo as rotações ocorrendo em tempo real, pode ser visualizado no vídeo abaixo:
-[LINK DO SEU VÍDEO NO YOUTUBE AQUI]
+[https://youtu.be/I5BktwFhwvU]
